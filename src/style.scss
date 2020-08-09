@@ -1,0 +1,14 @@
+@import '~bootstrap/scss/bootstrap';
+
+
+
+$primary: pink;
+
+body {
+  background-color: $primary;
+}
+
+
+.open {
+  font-size: 200px;
+}
